@@ -53,7 +53,10 @@ Cryptojacking is a relatively new phenomenon, driven by the rising price of bit
 - Cryptominers have [infected 10 times more organizations than ransomware](https://www.kaspersky.com/blog/hidden-miners-botnet-threat/18488/) in 2018.
 - A single cryptocurrency mining botnet can net cyber criminals more than [$30,000 per month](https://triagingx.com/blogs/view/txhunter-detects-cryptocurrency-malware).
 
-
+1. Threat actor compromises site.
+2. User visits compromised site.
+3. End-user unknowingly starts mining cryptocurrency.
+4. Actor receives cryptocurrency reward.
 
 ## Original Content
 
