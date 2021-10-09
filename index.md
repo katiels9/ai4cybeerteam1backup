@@ -28,6 +28,8 @@ Information technology revolutionized the way businesses and individuals manage 
 ### Threat Trends
 ```markdown
 Fintech represents [19% of total attacks](https://finadium.com/ibm-cyber-report-shows-cryptojacking-growing-threat-to-finance/) and incidents and continues to be the most targeted industry.
+```
+
 #### Ransomware
 <p class="margin-top-half">Type of malware that&nbsp;infects&nbsp;a device and&nbsp;prevents user&nbsp;from&nbsp;accessing certain files&nbsp;by&nbsp;either locking database&nbsp;or&nbsp;encrypting files unless&nbsp;a&nbsp;ransom is paid.</p>
 
