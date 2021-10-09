@@ -26,9 +26,32 @@ As of February 2021, there were [10,605 fintech (financial technology) startu
 Information technology revolutionized the way businesses and individuals manage and process financials. The combination of IT and finance created the Fintech industry. Information technology provided the software and algorithms that enabled now crucial functions like: mobile banking, mobile payments, AI investments. Without information technology we would all still be making trips to the bank every pay day.
 
 ### Threat Trends
+```markdown
+Fintech represents [19% of total attacks](https://finadium.com/ibm-cyber-report-shows-cryptojacking-growing-threat-to-finance/) and incidents and continues to be the most targeted industry.
 #### Ransomware
+<p class="margin-top-half">Type of malware that&nbsp;infects&nbsp;a device and&nbsp;prevents user&nbsp;from&nbsp;accessing certain files&nbsp;by&nbsp;either locking database&nbsp;or&nbsp;encrypting files unless&nbsp;a&nbsp;ransom is paid.</p>
+
+- Travelex company was attacked by Sodinokibi Ransomware in 2020 by a group known as Evil.
+- It took [Travelex a month](https://www.reuters.com/article/us-britain-travelex/travelex-says-uk-money-transfer-and-wire-services-back-online-after-hack-idUSKBN1ZR1S5) to get its money transfer systems back online.
+
 #### Phishing
+Cyberthreat wherein malicious actors use fraudulent messages to lure users and employees into disclosing personal and sensitive information.
+- Used to gain a foothold in a network by compromising an employee to gain privileged access to secured data.
+- [43% of the employees](https://www.harbortg.com/blog/hybrid-work-makes-businesses-more-vulnerable-to-cybercriminals#:~:text=43%25%20of%20employees%20have%20made,more%20error%2Dprone%20when%20tired) say they have made mistakes compromising the company’s cybersecurity.
+- [27% of the phishing incidents](https://finadium.com/ibm-cyber-report-shows-cryptojacking-growing-threat-to-finance/) note that attackers target users of web mail services.
+
 #### Cross-Site Scripting
+XSS attacks inject malicious content into trusted website to gain access to cookies and sensitive information. Types are Stored XSS, Reflected XSS, and DOM XSS.
+- The most widely used attack method to breach large companies in 2019.
+- Used in [39% of cyber incidents](https://www.wpexplorer.com/cross-site-scripting-wordpress/) as per reports.
+
+####CryproJacking
+Cryptomining malware (or [cryptojacking](https://finadium.com/ibm-cyber-report-shows-cryptojacking-growing-threat-to-finance/)) is hidden software that infects victims’ devices with JavaScript code, harnessing their processing power to mine cryptocurrencies and thus generating revenue.
+Cryptojacking is a relatively new phenomenon, driven by the rising price of bitcoin and other cryptocurrencies.
+- Driven by the rising prices of cryptocurrencies.
+- Malware (hidden software) that harnesses victim's hardware to mine cryptocurrency.
+- Cryptominers have [infected 10 times more organizations than ransomware](https://www.kaspersky.com/blog/hidden-miners-botnet-threat/18488/) in 2018.
+- A single cryptocurrency mining botnet can net cyber criminals more than [$30,000 per month](https://triagingx.com/blogs/view/txhunter-detects-cryptocurrency-malware).
 
 
 
