@@ -78,56 +78,35 @@ Business Systems/Applications are the platforms which institutions rely on to co
 An enterprise network can be regarded as the veins of any organization, as it enables both integration and information flow across different systems. These networks also responsible for allowing clients to interact with an institution’s financial applications such as mobile banking apps. In addition, institutions that offer services which rely on integrations with external systems, such as stock trading, require system networks to make this all possible. It is evident that banking networks are a vital component of any institution, and so a breach of these networks can have tremendous consequences depending on the severity of the breach. An institution could be left crippled if a network is completely  brought down, data can be stolen through a network breach, etc., so it is imperative that organizations maintain a secure network at any given point in time.
 
 ### Diamond Models
-[image](Slide18.jpeg)
-[image](Slide19.jpeg)
-[image](Slide20.jpeg)
-[image](Slide21.jpeg)
-[image](Slide22.jpeg)
-[image](Slide23.jpeg)
-[image](Slide24.jpeg)
-[image](Slide25.jpeg)
-[image](Slide26.jpeg)
-[image](Slide27.jpeg)
-[image](Slide28.jpeg)
-[image](Slide29.jpeg)
-[image](Slide30.jpeg)
-[image](Slide31.jpeg)
-[image](Slide32.jpeg)
+- [Spear Phishing](Slide18.jpeg)
+- [Phishing](Slide19.jpeg)
+- [Banking Trojan](Slide20.jpeg)
+- [Ransomware](Slide21.jpeg)
+- [Insider Threat](Slide22.jpeg)
+- [Malware](Slide23.jpeg)
+- [Data Theft](Slide24.jpeg)
+- [Insider Threat](Slide25.jpeg)
+- [Insider Threat2](Slide26.jpeg)
+- [Malware2](Slide27.jpeg)
+- [SQL Injector](Slide28.jpeg)
+- [Login Collection](Slide29.jpeg)
+- [Network Vulnerability](Slide30.jpeg)
+- [Network Vulnerability2](Slide31.jpeg)
+- [Network Vulnerability3](Slide32.jpeg)
 
-## Original Content
+### Intelligence Buy-In
 
-You can use the [editor on GitHub](https://github.com/katiels9/ai4cybeerteam1backup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Industry Threats**
+- Identity theft
+- Money laundering
+- Data leaks,
+- Application breaches
+- Spoofing
+- Malware attacks
+- Phishing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+According to Cybleinc research, there has been a large increase in digital threats targeting financial sector since the beginning of the pandemic. The statistical reports released between 2020-2021 show that [cyber-attacks on financial firms and services have increased by 238%](https://www.zdnet.com/article/covid-19-blamed-for-238-surge-in-cyberattacks-against-banks/).
 
-### Markdown
+Credit reporting company Equifax has spent nearly [$1.4 billion on cleanup costs](https://www.bankinfosecurity.com/equifaxs-data-breach-costs-hit-14-billion-a-12473) due to its massive 2017 data breach.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katiels9/ai4cybeerteam1backup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Equifax could have saved $1.4 billion by using AI to detect the data breach before it happened._
