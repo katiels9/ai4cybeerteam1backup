@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Finech Industry Background
+### Key Services
+- Mobile Banking
+- Mobile Payments
+- Investing
+- Loan Processing
+- Cryptocurrency
+- Insurance
+
+## Market Size
+
+As of February 2021, there were [10,605 fintech (financial technology) startups in the Americas and 64%] (statista.com/statistics/893954/number-fintech-startups-by-region/(opens in a new tab)) and [64%of consumers worldwide have used one or more fintech platforms] (assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/banking-and-capital-markets/ey-global-fintech-adoption-index.pdf(opens in a new tab)). Not only is the market already incredibly large, it is growing at a rapid pace. The global fintech market size is [expected to grow to USD 124.3 Billion](reports.valuates.com/market-reports/QYRE-Othe-2W194/fintech(opens in a new tab)) by the end of 2025.
 
 You can use the [editor on GitHub](https://github.com/katiels9/ai4cybeerteam1backup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
