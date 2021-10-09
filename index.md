@@ -110,3 +110,12 @@ According to Cybleinc research, there has been a large increase in digital threa
 Credit reporting company Equifax has spent nearly [$1.4 billion on cleanup costs](https://www.bankinfosecurity.com/equifaxs-data-breach-costs-hit-14-billion-a-12473) due to its massive 2017 data breach.
 
 _Equifax could have saved $1.4 billion by using AI to detect the data breach before it happened._
+
+## Data Sources
+###Criteria for Data Selection
+
+- **Relevance:** Data collected addresses the main threats and vulnerabilities our critical assets face within the Fintech industry.
+- **Reputable:** Sources used for data collection are reputable across several industries for hosting credible and vetted data.
+- **Accessibility:** Collection of data with relative ease at little to no cost via methods such as CSV files, API integration, etc.
+- **Volume:** Sources utilized provided vast amounts of data which is vital in developing effective AI capabilities.
+- **Accuracy:** Collected data provides insight on the types of attacks our assets face, which will aid in developing effective AI capabilities to prevent these.
