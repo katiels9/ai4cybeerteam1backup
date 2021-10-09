@@ -60,12 +60,39 @@ Cryptojacking is a relatively new phenomenon, driven by the rising price of bit
 4. Actor receives cryptocurrency reward.
 
 ## Threat Modeling
-###Critical Asset Identification
+### Critical Asset Identification
 
 **Personal & Financial Information**
+This information entails highly confidential and sensitive client information such as social security numbers, home addresses, names, banking account details, etc. Banking institutions utilize this data for purposes such as marketing products and services, background checks to ensure an institution is conducting business with ethical clientele, and credit checks which help determine if an individual is credit worthy. If this information were to land in the wrong hands, then institutions potentially face heavy financial penalties in lawsuits, loss of clientele and most importantly a tarnished reputation and lack of trust from clients which can take decades to rebuild.
 
+**Financial Transaction Data**
+Financial transaction data is likely the most important asset any financial institution can own. Banks rely on this data to account for where, when and how much money changed hands for goods or services consumed. This data ensures that institutions maintain both ethical and integral accounting practices for consumer protection purposes. Institutions also use this data to derive insight on clientele with hopes of offering profitable customized services. In the event of a data breach, any data tempered with would likely result in a loss of data integrity which presents severe consequences for both merchant and consumer as the data is no longer credible.
 
-**Personal & Financial Information**
+**Intellectual Property**
+Intellectual property, more specifically trade secrets, are a crucial part of any large organization’s success. This can comprise of ideas, patents, products, services, etc. that an organization safeguards, as these are usually what allows them to gain a competitive advantage in the market. This asset can potentially make or break an organizations success in the future, and the Fintech industry is no exception, so it is vital to protect it at all costs. If intellectual property is leaked or sold to competitors as a result of a breach, then it can be used against an institution in plentiful ways that can have long term effects, or in severe cases affect the overall existence of an institution.
+
+**Financial Business Systems & Application**
+Business Systems/Applications are the platforms which institutions rely on to conduct business. These systems comprise of storage servers, general ledgers, portfolio reporting and reconciliation systems, etc. More importantly, these are also the applications that clients use to complete day-to-day financial transactions such as payments, money wire transfers, reviewing loan and bank account balances. A breach of such critical systems can have major consequences, such as losing the ability to operate completely which can have a major effect on revenue for an institution, even for a few hours. Clients could be affected to the extent of not being able to pay for goods or services which can be problematic.
+
+**Financial Banking Networks**
+An enterprise network can be regarded as the veins of any organization, as it enables both integration and information flow across different systems. These networks also responsible for allowing clients to interact with an institution’s financial applications such as mobile banking apps. In addition, institutions that offer services which rely on integrations with external systems, such as stock trading, require system networks to make this all possible. It is evident that banking networks are a vital component of any institution, and so a breach of these networks can have tremendous consequences depending on the severity of the breach. An institution could be left crippled if a network is completely  brought down, data can be stolen through a network breach, etc., so it is imperative that organizations maintain a secure network at any given point in time.
+
+### Diamond Models
+[image](Slide18.jpeg)
+[image](Slide19.jpeg)
+[image](Slide20.jpeg)
+[image](Slide21.jpeg)
+[image](Slide22.jpeg)
+[image](Slide23.jpeg)
+[image](Slide24.jpeg)
+[image](Slide25.jpeg)
+[image](Slide26.jpeg)
+[image](Slide27.jpeg)
+[image](Slide28.jpeg)
+[image](Slide29.jpeg)
+[image](Slide30.jpeg)
+[image](Slide31.jpeg)
+[image](Slide32.jpeg)
 
 ## Original Content
 
