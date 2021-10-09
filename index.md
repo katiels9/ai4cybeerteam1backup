@@ -26,9 +26,8 @@ As of February 2021, there were [10,605 fintech (financial technology) startu
 Information technology revolutionized the way businesses and individuals manage and process financials. The combination of IT and finance created the Fintech industry. Information technology provided the software and algorithms that enabled now crucial functions like: mobile banking, mobile payments, AI investments. Without information technology we would all still be making trips to the bank every pay day.
 
 ### Threat Trends
-```markdown
 Fintech represents [19% of total attacks](https://finadium.com/ibm-cyber-report-shows-cryptojacking-growing-threat-to-finance/) and incidents and continues to be the most targeted industry.
-```
+
 
 #### Ransomware
 <p class="margin-top-half">Type of malware that&nbsp;infects&nbsp;a device and&nbsp;prevents user&nbsp;from&nbsp;accessing certain files&nbsp;by&nbsp;either locking database&nbsp;or&nbsp;encrypting files unless&nbsp;a&nbsp;ransom is paid.</p>
@@ -59,6 +58,9 @@ Cryptojacking is a relatively new phenomenon, driven by the rising price of bit
 2. User visits compromised site.
 3. End-user unknowingly starts mining cryptocurrency.
 4. Actor receives cryptocurrency reward.
+
+## Threat Modeling
+###Critical Asset Identification
 
 ## Original Content
 
